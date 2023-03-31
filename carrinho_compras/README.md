@@ -1,0 +1,1 @@
+Projeto para desenvolver um carrinho de compras com React JS, uma das bibliotecas mais populares para desenvolvimento web atualmente.
