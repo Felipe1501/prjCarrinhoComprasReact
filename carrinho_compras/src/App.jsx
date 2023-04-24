@@ -1,22 +1,10 @@
 import React from 'react';
+import Header from './components/Header/Header';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       
-        <p>
-          Salve
-        </p>
-        <a
-          className="My-site"
-          href="https://Felipe1501.github.io"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Portfólio
-        </a>
-      </header>
+    <div>
+      <Header />
     </div>
   );
 }
